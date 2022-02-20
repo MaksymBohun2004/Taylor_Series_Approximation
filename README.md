@@ -130,5 +130,6 @@ def plot_difference(x):
 Різницю між фактичним значенням та наближенням.
  
  Крім того, згенеровано наступний графік наближення:
+ 
  <img width="367" alt="image" src="https://user-images.githubusercontent.com/92430278/154860151-e33ec84a-d05f-48ba-a560-f58ec0737159.png">
 
